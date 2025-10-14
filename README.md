@@ -3,4 +3,4 @@ Microsoft Agent Framework 3 Part Series
 
 # Watch the Video for Part -1
 
-[![Video Title](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Video Title](https://img.youtube.com/vi/HlW1tm0Q4hU/0.jpg)](https://www.youtube.com/watch?v=HlW1tm0Q4hU)
