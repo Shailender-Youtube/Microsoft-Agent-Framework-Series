@@ -1,0 +1,9 @@
+invoice_id,client_name,client_email,is_preferred,item_description,quantity,unit_price,date
+INV-001,Acme Corporation,billing@acme.com,True,Software Development Services,40,150.00,2025-10-01
+INV-002,Global Tech Ltd,accounts@globaltech.com,False,Cloud Infrastructure Setup,20,200.00,2025-10-02
+INV-003,Innovate Solutions,finance@innovate.com,True,AI Consulting Services,30,180.00,2025-10-03
+INV-004,StartupHub Inc,payments@startuphub.com,False,Web Application Development,25,160.00,2025-10-04
+INV-005,Enterprise Systems,billing@enterprise.com,False,Database Migration Services,15,220.00,2025-10-05
+INV-006,TechVision Corp,accounts@techvision.com,True,Mobile App Development,35,170.00,2025-10-06
+INV-007,CloudFirst LLC,finance@cloudfirst.com,False,DevOps Implementation,18,190.00,2025-10-07
+INV-008,DataStream Inc,billing@datastream.com,False,Data Analytics Setup,22,175.00,2025-10-08
