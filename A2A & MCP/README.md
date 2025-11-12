@@ -136,9 +136,7 @@ python run_scenario1.py
 6. Executor Agent → File MCP Server: `write_file("seattle_weather.txt", data)`
 7. Coordinator responds: "Weather saved to seattle_weather.txt"
 
-### Learn More
 
-See [scenario1_local_agents/README.md](scenario1_local_agents/README.md) for detailed documentation.
 
 ---
 
@@ -197,9 +195,7 @@ python interactive_maf_demo.py
 5. Research Agent → Coordinator (via A2A): Found documentation with regions
 6. Coordinator responds: Lists supported regions with citations
 
-### Learn More
 
-See [scenario2_azure_foundry/README.md](scenario2_azure_foundry/README.md) for detailed documentation.
 
 ---
 
