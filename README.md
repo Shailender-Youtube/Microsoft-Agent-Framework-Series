@@ -14,3 +14,8 @@ Microsoft Agent Framework 3 Part Series
 # Watch the Video for Part -3
 
 [![Video Title](https://img.youtube.com/vi/fuP3Yiu0mCo/0.jpg)](https://www.youtube.com/watch?v=fuP3Yiu0mCo)
+
+
+# Watch the Video for A2A and MCP
+
+[![Video Title](https://img.youtube.com/vi/NdZ6tgT5epY/0.jpg)](https://www.youtube.com/watch?v=NdZ6tgT5epY)
